@@ -2,7 +2,7 @@
 
 ### Group Members: 
   1. Nadiatul Fakhira Binti Zakpar, 160462
-  2.  Aina Sofeya Binti Mohamed Yusof,160423
+  2.  Nur Aina Sofeya Binti Mohamed Yusof,160423
   3.  Aqilah Syazwani Binti Shawel, 160462
   
 ## Table Of Contents 
