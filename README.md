@@ -9,7 +9,6 @@
   + Introduction
   + Features
   + Storyline
- 
   + Implementation of Object-Oriented Programming
   + Compiling & Running
   + Credits
@@ -33,3 +32,4 @@
 ## Compiling & Running
 
 ## Credits
+  Our dedication to make a personality quiz game started when there was a trend among teenagers where they play an interactive Korean quiz game with outstanding visuals and aesthetic theme and storylines. Thus we chose flower as our theme in assigning the personalities.
