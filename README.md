@@ -14,7 +14,7 @@
   + Credits
 
 ## Introduction
-
+  This text based game takes player into a world where they would navigate through a storyline to learn a part of their 
 
 ## storyline
 
