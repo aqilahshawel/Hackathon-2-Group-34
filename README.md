@@ -28,8 +28,8 @@
 
 
 ## Implementation of Object-Oriented Programming
-    There is three classes used in this game named Game, ResultGame and LinkedList. The base class is the Game class where it focusing on producing a basic game layout. Game class has two private members variables which are name and age. In its public access specifier, it has eight methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on calculating the scores to give the right output to the users. This class also inherits public of Game class.
-
+   There is three classes used in this game named Game, ResultGame and LinkedList. The base class is the Game class where it focusing on producing a basic game layout. Game class has two private members variables which are name and age. In its public access specifier, it has eight methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on calculating the scores to give the right output to the users. This class also inherits public of Game class.
+  
 ## Compiling & Running
 
 ## Credits
