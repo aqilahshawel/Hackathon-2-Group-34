@@ -17,12 +17,15 @@
   This text based game takes the player into a coded world where they would navigate through a storyline to learn a part of their personality. Games are becoming more advanced nowadays especially with the evolvement of Artificial Intelligence, games are even playable with a small device in hand. 
 
 ## Features
-  For the feature of our game, we focused on how the storyline would help in processing the outcome of the end game. As our game is a storubased g
+  For the feature of our game, we focused on how the storyline would help in processing the outcome of the end game. Our game analyzes the choice players made throughout the game and the deccision is based on it. 
+  One of the drawback for our game it that it does not have a wide option when it comes to the storyline.
 
 
 
 ## Storyline
-  The timeline for this games takes back to a memory when the player is still a middle school student with an active relation with their neighbors
+  The timeline for this game takes back to a memory when the player is still a middle school student with an active relationship with their neighbors
+  
+  The choice picked by the players won't affect the storyline except for one part of the game, which is the second scenario however it only affects the end of scenario 2 only continuing the same scenario 3 regardless.
 
 
 
