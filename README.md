@@ -19,3 +19,11 @@
 
 ## Storyline
   The timeline for this games takes back to a memory when the player is still a middle school student with an active relation with their neighbors
+
+## Features
+
+## Setup
+
+## Compiling & Running
+
+## Credits
