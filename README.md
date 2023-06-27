@@ -18,7 +18,7 @@
   This text based game takes the player into a coded world where they would navigate through a storyline to learn a part of their personality. Games are becoming more advanced nowadays especially with the evolvement of Artificial Intelligence, games are even playable with a small device in hand. 
 
 ## Features
-  For the feature of our game, we focused on how the storyline would help in processing the outcome of the end game. 
+  For the feature of our game, we focused on how the storyline would help in processing the outcome of the end game. As our game is a storu
 
 
 
