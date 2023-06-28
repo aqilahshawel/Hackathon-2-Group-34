@@ -77,7 +77,14 @@ Other than than, we also have other 3 features such as:
   The game starts with the introduction of the game followed by asking the users their name and age. Then, game continue to give a situation with three choices of answers. The questions continue until the users completed all questions. The player summary will be displayed first before the results are shown. Lastly, players can decide to restart the game or exit the game.
 
 ## Insights
-  * Screenshots of results for our game : 
-  
+Screenshots of results for our game :
+  * Result and descriptions for Personality 1
+  ![blazing star](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/c4c7f2b6-466f-436b-8b1f-3c0f4800c95f)
+* Result and descriptions for Personality 2
+![hydragea](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/cf9abde0-e8fc-434d-95c1-929eb195e8d3)
+* Result and descriptions for Personality 3
+  ![cosmos](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/e7c873a2-fdf6-4f7b-b780-d91cc27dac4a)
+
+
 ## Credits
   Our dedication to make a personality quiz game started when there was a trend among teenagers where they play an interactive Korean quiz game with outstanding visuals and aesthetic theme and storylines. Thus we chose flower as our theme in assigning the personalities as an attraction.
