@@ -33,7 +33,7 @@
    1. Class
    * There are four classes used in this game named Game, ResultGame, ListNode and LinkedList. The base class is the Game class where it focusing on producing a basic game layout. Game class has two private members variables which are name and age. In its public access specifier, it has eight methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on calculating the scores to give the right output to the users. This class also inherits public of Game class. The last two classes are called ListNode and LinkedList class. These two classes are for us to implement the use of linked-list. 
 2. Object
-   * There is only one object in this game where we named it as 'game'.
+* There is only one object in this game where we named it as 'game'.
   
 ## Impact of Linked-List in the Game
   The usage of linked-list starts with ListNode class. The class `ListNode` represents a node in a linked list. It contains two member variables:
