@@ -19,8 +19,14 @@
 
 ## Features
   For the features of our game, we focused on how the storyline would help in processing the outcome of the end game. Our game analyzes the choice players made throughout the game and the decision result is based on it. There are 3 choices for the player to choose for each questions. 
-  We designed each choice 1 would represent the first category personality which is joy and happiness, while for choice 2, it would represent strict and boastfullness and for choice 3, it represent calm and harmony personality.
-  Other than than, we also have other 3 features such as to restart the game, to enter new player and to exit the game.
+  We designed each choice represent different category.
+  - Choice 1 represents the first category personality which is joy and happines.
+  - Choice 2 represents strict and boastfullness.
+  - Choice 3 represent calm and harmony personality.
+  Other than than, we also have other 3 features such as:
+  - to restart the game
+  - to enter new player
+  - to exit the game
   Besides that, we add 2 visual text files to have a better good interface game and read the scene from 7 text files to display the flow of the storyline. 
   
   However, one of the drawback for our game is that it does not have a wide option when it comes to the storyline, which it would involve more complex coding and consume more time.
