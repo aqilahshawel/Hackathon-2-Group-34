@@ -51,7 +51,7 @@ Other than than, we also have other 3 features such as:
    * There are three classes used in this game named Game, ResultGame and LinkedList. The base class is the Game class which has two private members variables which are name and age. In its public access specifier, it has six methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on layout of the game and  evaluating the total choice to determine which choice has the highest picked to give the right output to the users. This class also inherits public of Game class. The last classes are called LinkedList class which implement dynamic linked list with template. This classes are used to implement the use of linked-list in our game.
      
 2. Object
-* LinkedList <int> list : We are creating 'list' as an instance of the LinkedList class with the template parameter int. 
+*  LinkedList<int> list : We are creating 'list' as an instance of the LinkedList class with the template parameter int. 
 * ResultGame game : We are also creating 'game' as an instance of class ResultGame 
   
 ## Impact of Linked-List in the Game
