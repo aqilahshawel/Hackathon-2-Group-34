@@ -78,7 +78,7 @@ Other than than, we also have other 3 features such as:
 
 ## Insights
 Introduction of the game :
-![Screenshot 2023-06-28 234230](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/075e1045-ae11-4f5c-90a0-594d478229bb)
+ ![Screenshot 2023-06-28 234230](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/075e1045-ae11-4f5c-90a0-594d478229bb)
 
 Screenshots of results for our game :
   * Result and descriptions for Personality 1
