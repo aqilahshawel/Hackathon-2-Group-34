@@ -62,7 +62,7 @@ The class `LinkedList` provides the following functionality:
 
 4. `getSum()`: This function traverses the linked list and calculates the sum of all the `answer` values stored in the nodes. It starts from the `head` node and iteratively moves through the list by following the `next` pointers until reaching the end (the node where `next` is `nullptr`). It adds up the `answer` values and returns the sum.
 
-In summary, the `LinkedList` class provides the basic functionality to create and manipulate a linked list. It allows for appending nodes to the end of the list and calculating the sum of values stored in the nodes. However, it is important to note that the provided code is incomplete, as the destructor is not implemented.
+In summary, the `LinkedList` class provides the basic functionality to create and manipulate a linked list. It allows for appending nodes to the end of the list and calculating the sum of values stored in the nodes. 
 
 ## Credits
   Our dedication to make a personality quiz game started when there was a trend among teenagers where they play an interactive Korean quiz game with outstanding visuals and aesthetic theme and storylines. Thus we chose flower as our theme in assigning the personalities.
