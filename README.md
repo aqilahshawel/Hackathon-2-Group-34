@@ -11,6 +11,7 @@
   + Storyline
   + Implementation of Object-Oriented Programming
   + Impact of Linked-List in the Game
+  + How to Play the Game
   + Credits
 
 ## Introduction
@@ -64,5 +65,8 @@ The class `LinkedList` provides the following functionality:
 
 In summary, the `LinkedList` class provides the basic functionality to create and manipulate a linked list. It allows for appending nodes to the end of the list and calculating the sum of values stored in the nodes. 
 
+## How to Play the Game
+  The game starts with the introduction of the game followed by asking the users their name and age. Then, game continue to give a situation with three choices of answers. The questions continue until the users completed all questions. The player summary will be displayed first before the results are shown. Lastly, players can decide to restart the game or exit the game.
+  
 ## Credits
   Our dedication to make a personality quiz game started when there was a trend among teenagers where they play an interactive Korean quiz game with outstanding visuals and aesthetic theme and storylines. Thus we chose flower as our theme in assigning the personalities.
