@@ -1,0 +1,9 @@
+
+You arrived at Aunt May's Cafeteria safely.
+There are 3 dishes available on today's menu.
+Your cousin, Peter duelled you to a rock paper scissors and if you won Peter would pay for your lunch.
+
+Choose what would you like to pull out: 
+1. Scissors
+2. Rock
+3. Paper

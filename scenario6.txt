@@ -1,0 +1,7 @@
+
+Arriving at the bus stop you noticed that your bus card was left at home.
+What would you do?
+
+1. Hitch a ride.
+2. Walk home.
+3. Call your parents.

@@ -1,0 +1,10 @@
+
+On your way to school, you stopped at a T junction before continuing.
+To your left is a place you frequent to when you're bored, The Arcade.
+To your right is a temporary art exhibition that just opened. 
+Going straight means you would continue your journey to school.
+In which direction would you like to continue?
+
+1.Art exhibition
+2.School
+3.Arcade

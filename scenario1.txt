@@ -1,0 +1,10 @@
+
+Monday morning arrived and you woke up due to mom's constant lecture.
+Before leaving the house mom reminded you to buy lunch at Aunt May's cafeteria.
+Closing the house door in a rush almost made you fell, this resulted in your limited edition 
+chess set that was gifted by Uncle Ben to scatter on the ground.
+In front of you are 3 chess pieces, which would you like to pick up first? 
+ 
+1. The Bishop
+2. The Queen
+3. The Knight
