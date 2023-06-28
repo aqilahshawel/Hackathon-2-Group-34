@@ -56,7 +56,7 @@ The class `LinkedList` provides the following functionality:
 
 1. Constructor: The constructor initializes an empty linked list by setting both the `head` and `tail` pointers to `nullptr`.
 
-2. Destructor: The destructor is responsible for freeing the memory allocated for the linked list. Since it is not implemented in the provided code, it should be defined separately to release the memory allocated for all the nodes in the list.
+2. Destructor: The destructor is responsible for freeing the memory allocated for the linked list. 
 
 3. `append(T)`: This function is used to insert a new node with the provided value (`T`) at the end of the linked list. It creates a new `ListNode` object with the provided value and updates the `next` pointers accordingly to maintain the correct order of nodes in the list.
 
