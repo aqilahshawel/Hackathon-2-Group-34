@@ -10,7 +10,7 @@
   + Features
   + Storyline
   + Implementation of Object-Oriented Programming
-  + Compiling & Running
+  + Impact of Linked-List in the Game
   + Credits
 
 ## Introduction
@@ -30,9 +30,21 @@
 
 
 ## Implementation of Object-Oriented Programming
-   There is three classes used in this game named Game, ResultGame and LinkedList. The base class is the Game class where it focusing on producing a basic game layout. Game class has two private members variables which are name and age. In its public access specifier, it has eight methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on calculating the scores to give the right output to the users. This class also inherits public of Game class.
+   1. Class
+   There are four classes used in this game named Game, ResultGame, ListNode and LinkedList. The base class is the Game class where it focusing on producing a basic game layout. Game class has two private members variables which are name and age. In its public access specifier, it has eight methods with constructor and destructor. On the other hand, ResultGame class is the derived class. This class focused on calculating the scores to give the right output to the users. This class also inherits public of Game class. The last two classes are called ListNode and LinkedList class. These two classes are for us to implement the use of linked-list. 
+2. Object
+   There is only one object in this game where we named it as 'game'.
   
-## Compiling & Running
+## Impact of Linked-List in the Game
+  The usage of linked-list starts with ListNode class. The class 'ListNode' represents a node in a linked list. It contains two member variables:
+
+1. 'answer': This variable stores the data (of type 'T') associated with the node. It represents the answer value or any other information you want to store in the node.
+
+2. 'next': This is a pointer to the next node in the linked list. It is of type `ListNode<T>*`. By using this pointer, each node in the linked list is connected to its adjacent node.
+
+The constructor `ListNode(T nodeAnswer)` initializes a `ListNode` object by assigning the provided `nodeAnswer` value to the `answer` member variable and setting the `next` pointer to `nullptr` (indicating that it is not currently connected to any other node).
+
+Essentially, this class provides the building blocks for creating a linked list, where each node holds a value (`answer`) and a pointer (`next`) to the next node in the list. By linking multiple `ListNode` objects together through the `next` pointers, you can construct a linear data structure known as a linked list, allowing efficient insertion and removal of elements.
 
 ## Credits
   Our dedication to make a personality quiz game started when there was a trend among teenagers where they play an interactive Korean quiz game with outstanding visuals and aesthetic theme and storylines. Thus we chose flower as our theme in assigning the personalities.
