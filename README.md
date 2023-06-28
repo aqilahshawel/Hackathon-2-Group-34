@@ -30,11 +30,12 @@ Other than than, we also have other 3 features such as:
   - to restart the game
   - to enter new player
   - to exit the game
-  Besides that, we add 2 visual text files to have a better good interface game and read the scene from 7 text files to display the flow of the storyline. 
+  
+  Besides that, our game also adds a little element where we display images of flowers made by symbols that we have obtained from https://www.asciiart.eu/plants/flowers. So, we add 2 visual text files to have a better good interface game and read the scene from 7 text files to display the flow of the storyline. 
   
   However, one of the drawbacks for our game is that it does not have a wide option when it comes to the storyline, which it would involve more complex coding and consume more time.
 
-  Our game also adds a little element where we display images of flowers made by symbols that we have obtained from https://www.asciiart.eu/plants/flowers .
+ 
 
 
 
