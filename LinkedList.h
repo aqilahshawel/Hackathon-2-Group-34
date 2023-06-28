@@ -10,46 +10,35 @@ using namespace std;
 //*********************************************
 
 template <class T>
-class ListNode
-{
-  public:
-    T answer; // Node value T of class personInfo -composition
-    ListNode<T> *next; // Pointer to the next node
-
-    //Constructor
-    ListNode (T nodeAnswer)
-   {
-      answer = nodeAnswer;
-      next = nullptr;
-   }
-};
-
-
-//*******************
-// LinkedList class
-//*******************
-template <class T>
-class LinkedList
+class LinkedList 
 {
   private:
-      ListNode<T> *head;
-      ListNode<T> *tail;
+    struct ListNode 
+  {
+        T answer;
+        ListNode* next;
+    };
+
+    ListNode* head;
+    
   public:
 
   // Constructor
   LinkedList()
   { 
     head = nullptr; 
-    tail = nullptr;
   }
 
-  // Destructor
-  ~LinkedList();
-
   // Linked list operations
-  void append(T); //to insert node
-  int getSum();//to traverse the list and sum all the answer
+  void append(T); //to append node
+  void countChoices(T&, T&, T&); // to count each total choice
+  void clear();
+  
+  // Destructor
+  ~LinkedList()
+  {
+    clear();
+  }
 
 };
 #endif
-
