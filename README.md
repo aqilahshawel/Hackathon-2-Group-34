@@ -23,7 +23,7 @@
   - Choice 1 represents the first category personality which is joy and happines.
   - Choice 2 represents strict and boastfullness.
   - Choice 3 represent calm and harmony personality.
-  Other than than, we also have other 3 features such as:
+Other than than, we also have other 3 features such as:
   - to restart the game
   - to enter new player
   - to exit the game
