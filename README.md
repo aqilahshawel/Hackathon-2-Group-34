@@ -77,6 +77,9 @@ Other than than, we also have other 3 features such as:
   The game starts with the introduction of the game followed by asking the users their name and age. Then, game continue to give a situation with three choices of answers. The questions continue until the users completed all questions. The player summary will be displayed first before the results are shown. Lastly, players can decide to restart the game or exit the game.
 
 ## Insights
+Introduction of the game :
+![Screenshot 2023-06-28 234230](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/075e1045-ae11-4f5c-90a0-594d478229bb)
+
 Screenshots of results for our game :
   * Result and descriptions for Personality 1
   ![blazing star](https://github.com/aqilahshawel/Hackathon-2-Group-34/assets/117916285/c4c7f2b6-466f-436b-8b1f-3c0f4800c95f)
